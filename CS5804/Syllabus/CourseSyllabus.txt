@@ -1,0 +1,153 @@
+Intro Artificial Intelligence
+
+Course Syllabus
+Jump to Today
+Description
+This course will introduce the foundations of modern artificial intelligence (AI) and key ideas and techniques underlying the design of intelligent computer systems. It will focus on concepts that are not only important in the space of AI but are also practically useful in modern applications. We will practice effective methods of reasoning about AI problems, which will generalize beyond the specific topics we study in class. Topics include (but are not limited to) search, game playing, logic, machine learning, deep learning, natural language processing, robotics and image processing. The techniques you learn in this course apply to a wide variety of artificial intelligence problems and will serve as the foundation for further study in any application area you choose to pursue.
+
+Course Staff
+Instructor:
+Yinlin Chen Links to an external site., Ph.D., Assistant Professor.
+Assistant Director, Center for Digital Research & Scholarship at Virginia Tech University Libraries
+Email: ylchen@vt.edu
+Office hours: TBD
+
+Learning Objectives
+By the successful completion of this course, students will be able to:
+
+Explain and analyze classical artificial intelligence algorithms.
+Examine applications of AI techniques in intelligent agents, expert systems, artificial neural networks, and other machine learning models.
+Design and develop intelligent systems by assembling solutions to concrete computational problems that learn from experience.
+Implement methods of machine learning using a high-level programming language.
+Have a well-informed perspective on what is possible with modern AI methods and what will be possible in the future.
+Topics
+Search: heuristic search, A*, adversarial search, and game playing.
+Probability and learning: reasoning under uncertainty, reinforcement learning, temporal modeling.
+Logic and knowledge: propositional, first-order, reasoning, planning, knowledge representation.
+Machine learning: supervised, unsupervised, reinforcement, and deep learning.
+AI Applications: self-driving cars, computer vision, natural language processing, and more.
+Prerequisites
+The only official prerequisite is CS 3114 (Undergraduate Data Structures and Algorithms). You should be comfortable with discrete mathematics, basic probability and statistics, basic logic, computational complexity, data structures, and algorithm analysis. The homework assignments will include programming portions using Python.
+
+Please speak with the instructor if you are concerned about your background.
+
+Reading and materials
+Russell and Norvig, Artificial Intelligence, A Modern Approach. 4th Edition. ISBN: 0134610997. Table of Contents for the US Edition Links to an external site..
+Additional materials may be provided electronically, including readings, video lectures, and other media.
+Slides and other materials will be available at the course canvas
+Grading breakdown
+10%: Class attendance and participation
+30%: Homework assignments
+20%: Project assignments (0%: Project 0)
+10%: Mini-Project assignments
+10%: Midterm exam
+20%: Final exam
+Class schedule
+Note: Tentative schedule and will change accordingly
+xxx
+Week	Dates	Tue	Thur	Notes
+1	01/16-01/20		Overview of AI
+Ch.1	
+2	01/23-01/27	Agents / Python & Projec 0
+Ch.2	Uninformed Search
+Ch. 3.1 – 3.4	Project 0: Tutorial
+3	01/30-02/03	Informed Search
+Ch. 3.5 – 3.6	Game, Adversarial Search
+Ch. 5.1 – 5.3	HW 1 / Project 1: search
+4	02/06-02/10	Game, Expectimax, Utilities
+Ch. 5.5 & 16.1 – 16.3	Probability
+Ch. 12.1 – 12.5	HW 2 / Project 2: Game
+5	02/13-02/17	Constraint satisfaction problem (CSP) I
+Ch. 6.1 – 6.2	CSP II
+Ch. 6.3 – 6.5	HW 3
+6	02/20-02/24	Markov Decision Processes (MDP)
+Ch. 17.1 – 17.3	MDP II Ch. 17.3 – 17.5	HW 4
+7	02/27-03/03	Propositional Logic
+Ch. 7.1 – 7.5	Machine Learning Fundamentals.
+Ch. 19	
+8	03/06-03/10	No class	No class	Sprint Break
+9	03/13-03/17	Midterm (3:30 pm – 4:45 pm)	Reinforcement Learning I
+Ch. 22.1 – 22.2	
+10	03/20-03/24	Reinforcement Learning II
+Ch. 22.3 – 22.5
+
+Bayesian Networks I
+Ch. 13.1 – 13.3	Project 3: Reinforcement Learning
+11	03/27-03/31	Bayesian Networks II
+Ch. 13.3 – 13.5	Decision Networks / HMMs
+Ch. 14.1 – 14.3 & 16.5 – 16.6
+12	04/03-04/07	Particle Filters
+Ch. 14.1 – 3,14.5	Machine Learning,Decision Tree, Naïve Bayes, Perceptron
+Ch. 20	
+13	04/10-04/14	Deep Learning Fundamentals
+Ch. 21.1-21.2	Deep Learning & Neural Networks
+Ch. 21.3 – 21.6
+14	04/17-04/21	Deep Learning for Nature Language Processing
+
+AI application & Research / The Ethics of AI	
+15	04/24-04/28	Mini-Project Presentation	Mini-Project Presentation / Semester recap	
+16	05/01-05/05	No class	Reading Day	
+17	05/08-05/12	No class	No class	05/10 (Wed) Final Exam 10:05 am – 12:05 pm
+xxx
+Homework and Project assignment
+Each homework assignment will include written and programing portions.
+Both written and programming assignments will be submitted electronically. Submission instructions will be posted with each assignment on Canvas.
+Programming assignments will be in Python and will be based on the UC Berkeley The Pac-Man Projects  Links to an external site..
+These programming assignments, while fun, only cover a portion of the topics we will study, so they will be supplemented with written problems.
+Mini-Project
+The goal of the mini-project is for students to practice techniques learned from this or outside the class and work on an AI research project. Students will work on the AI/ML project in a group (Maximum 4 students).
+
+Exams
+Exams for this course will be open-book and notes. They will be designed with the intent of testing your ability to understand and apply the concepts we learn about in class, not whether you can memorize them. You should take the exams all by yourselves, should not communicate with others through communication tools like email, phone, chat, zoom, skype, social media, etc during the exams.
+
+
+Midterm exam 03/13 (Mon) 2:30 pm – 3:45 pm. Exam time 75 minutes.
+Final exam 05/10 (Wed) 10:05 am – 12:05 pm. Exam time 2 hours.
+
+* The instructor reserves the right to adjust for unexpected performance on the exams, exceptional contributions to student activities, or other anomalies. The instructor reserves the right to be more lenient in the assignment of letter grades.
+
+Regrading requests
+Requests for regrading due to grading errors must be submitted in writing to a TA within one week of the release of grades.
+
+Late assignment policy
+Homework & project assignment submitted late without permission will be penalized according to the following formula:
+
+(Penalized score) = (Your raw score) * (1 - 0.1 * (# of days past deadline))
+
+This formula will apply for up to three days, after which the homework will not be accepted and you will receive a grade of zero. Avoid invoking these penalties by starting early and seeking extra help.
+
+Grading scale
+Based on the grading breakdown above, each student's final grade for the course will be determined by the final percentage of points earned. The grade ranges are as follows:
+
+ A 	 93.3%–100% 	 A- 	 90.0%–93.3% 	 B+ 	 86.6%–90.0% 	 B 	 83.3%–86.6% 
+ B- 	 80.0%–83.3% 	 C+ 	 76.6%–80.0% 	 C 	 73.3%–76.6% 	 C- 	 70.0%–73.3% 
+ D+ 	 66.6%–70.0% 	 D 	 63.3%–66.6% 	 D- 	 60.0%–63.3% 	 F 	 00.0%–60.0% 
+ 
+
+Academic integrity
+The Graduate Honor Code pledge that each member of the university community agrees to abide by states: "As a Hokie, I will conduct myself with honor and integrity at all times. I will not lie, cheat, or steal, nor will I accept the actions of those who do."
+
+Students enrolled in this course are responsible for abiding by the Honor Code. A student who has doubts about how the Honor Code applies to any assignment is responsible for obtaining specific guidance from the course instructor before submitting the assignment for evaluation. Ignorance of the rules does not exclude any member of the University community from the requirements and expectations of the Honor Code. For additional information about the Honor Code, please visit: https://graduateschool.vt.edu/academics/expectations/graduate-honor-system.html
+
+This course will have a zero-tolerance philosophy regarding plagiarism or other forms of cheating. Your assignments must be your own work, and any external source of code, ideas, or language must be cited to give credit to the original source. I will not hesitate to report incidents of academic dishonesty to the Office of the Graduate Honor System.
+
+Principles of Community
+Because the course will include in-class discussions, we will adhere to Virginia Tech's Principles of Community. The first two principles are most relevant:
+
+We affirm the inherent dignity and value of every person and strive to maintain a climate for work and learning based on mutual respect and understanding.
+We affirm the right of each person to express thoughts and opinions freely. We encourage open expression within a climate of civility, sensitivity, and mutual respect.
+The remaining principles are also important and we will take them seriously as a class.
+
+Health and Well-being
+Supporting the mental health and well-being of students in my class is of high priority to me and Virginia Tech. If you are feeling overwhelmed academically, having trouble functioning, or are worried about a friend, please reach out to any of the following offices:
+
+
+Cook Counseling: 540-231-6557 to schedule an appointment and/or 24/7 crisis support. ucc.vt.edu for more information.
+Dean of Students Office: 540 231-3787 for general advice. 540-231-6411 for after-hours crisis. dos.vt.edu for more information.
+Hokie Wellness: hokiewellness.vt.edu for more information about health and wellness workshops and consultations
+Services for Students with Disabilities (SSD) 540-231-3788 or http://www.ssd.vt.edu/ for more information about accommodations and other disability-related supports
+Student Success Center: The Student Success Center helps students develop the skills needed to accomplish their academic goals and become self-directed learners. Their free services include individual and group tutoring, peer academic coaching, a Seminar Series on Academic Success, and more. Students can book appointments through Navigate. For instructions and more information, please visit www.studentsuccess.vt.edu.
+For a full listing of campus resources check out well-being.vt.edu
+Please also feel free to speak with me. I will make an effort to work with you.
+
+Course Summary:
