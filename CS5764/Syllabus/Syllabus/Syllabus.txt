@@ -1,0 +1,114 @@
+Syllabus
+Course Description
+Examine computer-based strategies for interactive visual presentation of information that enable people to explore, discover, and learn from vast quantities of data. Learn to analyze, design, develop, and evaluate new visualizations and tools. Discuss design principles, interaction strategies, information types, and experimental results. Research-oriented course surveys current literature, and group projects contribute to the state of the art.
+
+As computer systems are increasingly designed to store larger quantities of information, it is equally important that these systems be designed to present this information to people in an effective manner.  It is critical that information system designers, especially those concerned with the human interface to the system, understand the issues in the design, development, and evaluation of interactive information visualizations.  Information presentation is fundamental to the study of Human-Computer Interaction (HCI).  This course also deals with the high-level organization of information that is fundamental to Computer Science.
+
+ 
+
+Course Objectives
+Having successfully completed this course, students will be able to:
+
+Critique existing interactive visualization techniques from the research literature and tools from the trade.
+Apply existing visualization tools to analyze a data set.
+Design new information visualizations for given data, users, and tasks, while balancing design tradeoffs.
+Design and implement new visualizations.
+Evaluate visualizations with user studies.
+Identify a current research need in the field of information visualization, produce a proposal for a solution, and develop the solution.
+ 
+
+Grading
+All assignments submitted shall be considered “graded work,” and all aspects of your coursework are covered by the Honor Code.  The Academic Integrity expectations for Hokies are the same in an online class as they are in an in-person class. Hokies are expected to meet the academic integrity standards at Virginia Tech at all times.
+
+On each assignment, your work will be graded on a list of criteria (specified on the assignment) such as quality of writing, completeness, insight into research issues, insight into social issues, etc.  Unless otherwise specified, assignments are due at 11:59pm on Sunday after the associated class week.
+
+Assignment Category	Frequency	Group Work?	Weight
+Reading Reflections	Two per week	Individual	40%
+Assignments (Homework and Quizzes)	Most weeks, but not all	Some Individual, Some Team	25%
+Course Project	Components throughout the second half of the semester	Team	35%
+ 
+
+Texts
+The recommended textbook for this course is "Visualization Analysis and Design Links to an external site." by Tamara Munzner.  There is no required textbook.
+
+ 
+
+Submissions
+All assignment submissions will happen through Canvas (no email submissions will be accepted).  Your last submission will be the version that is graded.
+
+ 
+
+Late Work
+Late submissions are generally not accepted, with rare exceptions permitted for emergency situations.  Instead, a policy of dropping two reading reflections and one assignment allows for some flexibility in assignment submissions.
+
+ 
+
+Attendance
+As an asynchronous online course, no attendance is taken.
+
+ 
+
+Exams
+The final project serves as the final exam for this course.  There is no separate exam.
+
+ 
+
+Course Structure
+This course will be fully online and asynchronous.  Every week contains two reading reflections.  Some weeks also contain homework assignments (either programming or short writing assignments, or both) or quizzes.  An overarching course project will be assigned, with components of the project due throughout the second half of the course.
+
+ 
+
+Communication
+Due to the asynchronous nature of the course, my primary means of communicating with you (aside from lecture videos) will be via Canvas announcements.  Please be sure to regularly check Canvas for new announcements, or to set up notifications so that you receive Canvas announcements by email.
+
+ 
+
+Withdrawal
+Sometimes students may need to withdraw from a class because of personal or academic reasons. If your performance in the class is not where you want it to be or if you are experiencing difficulties, please contact me prior to withdrawing.
+
+ 
+
+Backups!!!
+Make sure to keep backups of all of your work!  Hardware failure or accidentally losing your code is not an allowable excuse to be granted an extension.  A service like Google Drive or Dropbox is an easy, no-effort way to keep an online backup of your work, without having to do anything beyond keeping your files in a special folder.
+
+ 
+
+Accessibility
+Virginia Tech welcomes students with disabilities into the University’s educational programs. The University promotes efforts to provide equal access and a culture of inclusion without altering the essential elements of coursework. If you anticipate or experience academic barriers that may be due to disability, including but not limited to ADHD, chronic or temporary medical conditions, deaf or hard of hearing, learning disability, mental health, or vision impairment, please contact the Services for Students with Disabilities (SSD) office (540-231-3788, ssd@vt.edu, or visit ssd.vt.edu). If you have an SSD accommodation letter, please meet with me privately during office hours as early in the semester as possible to deliver your letter and discuss your accommodations. You must give me reasonable notice to implement your accommodations, which is generally 5 business days and 10 business days for final exams.  Further support resources are available in the University Learner Support section.  More information about specific technology services used in this course can be found in the Privacy and Accessibility section.
+
+ 
+
+Well-Being Statement
+Supporting the mental health and well-being of students in my class is of high priority to me and Virginia Tech. If you are feeling overwhelmed academically, having trouble functioning, or are worried about a friend, please reach out to any of the following offices:
+
+Cook Counseling
+540-231-6557 to schedule an appointment and/or 24/7 crisis support
+ucc.vt.edu for more information
+Dean of Students Office:
+540-231-3787 for general advice
+540-231-6411 for after-hours crisis
+dos.vt.edu for more information
+Hokie Wellness
+hokiewellness.vt.edu for more information about health and wellness workshops and consultations
+Services for Students with Disabilities (SSD)
+540-231-3788 or ssd.vt.edu for more information about accommodations and other disability-related support
+For a full listing of campus resources, check out well-being.vt.edu.
+Please also feel free to speak with me.
+ 
+
+Honor Code
+Collaboration and cheating can be tricky to understand in computing.  Much of programming involves using and building on other peoples' work.  However, when you are starting out, you want to be doing things yourself to learn.  Even still, getting support from your peers and the greater computing community is almost necessary.  We want to encourage honest collaboration and prevent abuse.  For more explicit information about this topic, please consult the page on Cheating, Communication, and Collaboration.
+
+The Graduate Honor Code establishes a standard of academic integrity and demands a firm adherence to a set of values.  It is founded on the concept of honesty with respect to the intellectual efforts of oneself and others.  By accepting admission to Virginia Tech, all graduate students subscribe to and become governed by the Graduate Honor Code and acknowledge the right of the University of establish policies and procedures and to take disciplinary action (including suspension or expulsion) when such action is warranted.
+
+As such, students enrolled in this course are responsible for abiding by the Honor Code.  A student who has doubts about how the Honor Code applies to any assignment is responsible for obtaining specific guidance from the course instructor before submitting the assignment for evaluation.  Ignorance of the rules does not exclude any member of the University community from the requirements and expectations of the Honor Code.  For additional information about the Honor Code, please visit the Graduate Honor System webpages, which include the Graduate Honor System Constitution.
+
+Commission of any of the following acts shall constitute academic misconduct. This listing is not, however, exclusive of other acts that may reasonably be said to constitute academic misconduct.
+
+CHEATING: Cheating includes the intentional use of unauthorized materials, information, notes, study aids or other devices or materials in any academic exercise, or attempts thereof.
+PLAGIARISM: Plagiarism includes the copying of the language, structure, programming, computer code, ideas, and/or thoughts of another and passing off the same as one's own original work, or attempts thereof.
+FALSIFICATION: Falsification includes the statement of any untruth, either verbally or in writing, with respect to any element of one's academic work, or attempts thereof.
+FABRICATION: Fabrication includes making up data and results, and recording or reporting them, or submitting fabricated documents, or attempts thereof.
+MULTIPLE SUBMISSION: Multiple submission involves the submission for credit – without authorization from the instructor receiving the work – of substantial portions of any work (including oral reports) previously submitted for credit at any academic institution of attempts thereof.
+COMPLICITY: Complicity includes intentionally helping another to engage in an act of academic misconduct, or attempts thereof.
+VIOLATION OF UNIVERSITY, COLLEGE, DEPARTMENTAL, PROGRAM, COURSE, OR FACULTY RULES:  The violation of any University, College, Departmental, Program, Course, or Faculty Rules relating to academic matters that may lead to an unfair academic advantage by the student violating the rule(s).
