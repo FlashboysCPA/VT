@@ -1,0 +1,26 @@
+https://courses.cs.vt.edu/cs5804/Spring23/projects/project0.html
+
+
+Project 0: Unix/Python/Autograder Tutorial
+Due: Fri May 12, 2023 11:59pmDue: Fri May 12, 2023 11:59pm
+Ungraded, 0 Possible Points
+0 Possible Points
+Attempt
+Attempt 3
+
+SUBMITTED on Jan 25, 2023 7:06pmSUBMITTED on Jan 25, 2023 7:06pm
+Next Up: Review Feedback
+Attempt 3 Score:
+N/A
+
+Unlimited Attempts Allowed
+Available: Jan 25, 2023 3:00pmAvailable: Jan 25, 2023 3:00pmuntil May 12, 2023 11:59pm until May 12, 2023 11:59pm
+Please see the project details and description from here.
+
+Files to Edit and Submit: You will fill in portions of addition.py, buyLotsOfFruit.py, and shopSmart.py in tutorial.zip during the assignment. You should submit these files with your code and comments. Please do not change the other files in this distribution or submit any of our original files other than these files.
+
+Please read the submission instructions for each project carefully.
+
+Not following the submission instructions may result in loosing points.
+
+Gradescope: https://www.gradescope.com/courses/490575
