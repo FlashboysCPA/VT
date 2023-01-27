@@ -1,0 +1,7 @@
+http://ai.berkeley.edu/project_overview.html
+
+Homework and Project assignment
+Each homework assignment will include written and programing portions.
+Both written and programming assignments will be submitted electronically. Submission instructions will be posted with each assignment on Canvas.
+Programming assignments will be in Python and will be based on the UC Berkeley The Pac-Man Projects  Links to an external site..
+These programming assignments, while fun, only cover a portion of the topics we will study, so they will be supplemented with written problems.
